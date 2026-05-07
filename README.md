@@ -1,6 +1,6 @@
-Name Dagmawi Tewodros
-ID NO UGR/7661/16
-Section 2
+Name Dagmawi Tewodros  
+ID NO UGR/7661/16  
+Section 2  
 # Maze Generator & Solver
 
 A Python + pygame program that builds and solves a random maze.
